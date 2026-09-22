@@ -1,0 +1,14 @@
+{
+  "owner": "FrankieGhaf",
+  "repositories": [
+    {
+      "source": "Chainlit/chainlit",
+      "name": "chainlit",
+      "branch": "main",
+      "stars": 12467,
+      "license": "Apache-2.0",
+      "description": "Build Conversational AI in minutes \u26a1\ufe0f",
+      "origin": "git@github-frankie-chainlit:FrankieGhaf/chainlit.git"
+    }
+  ]
+}
